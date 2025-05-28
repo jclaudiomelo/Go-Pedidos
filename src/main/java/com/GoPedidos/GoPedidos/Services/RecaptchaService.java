@@ -17,7 +17,7 @@ import java.util.Map;
 @Service
 public class RecaptchaService {
 
-	private static final String SECRET_KEY = "6LfD_u0qAAAAABxQnEvr6S973Te0EHxhp1IH-fkH";
+	private static final String SECRET_KEY = "6LfdfkH";
 	private static final String VERIFY_URL = "https://www.google.com/recaptcha/api/siteverify";
 
 
