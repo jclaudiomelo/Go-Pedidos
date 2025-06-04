@@ -2,6 +2,16 @@
 
 **GoPedidos** é um sistema backend desenvolvido em **Java** com **Spring Boot** para facilitar a organização de pedidos em estabelecimentos. Por exemplo, um garçom registra os pedidos via aplicativo, e a cozinha recebe essas informações para preparação. O cliente consegue verificar em tempo real o processo do seu pedido acessando a plataforma, podendo a cozinha ou garçom enviar e receber mensagens de avisos do pedido.
 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7312615378327683072/" target="_blank">Projeto no LinkedIn</a>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHA5HFQCGGv-w/feedshare-shrink_800/B4DZXug7mRHsAg-/0/1743463366513?e=1752105600&v=beta&t=QPOMa5etskKk0INlvPyADk3HJqNKwG8n05O46bpkOF0" width="300px" alt="Imagem do projeto no LinkedIn"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQFp1RQv3S_70g/feedshare-shrink_800/B4DZXug7moGkAk-/0/1743463365684?e=1752105600&v=beta&t=pcgkct6kXUWN_kiSkyMG-2ObxYHsPxpGCN-RSV-Ke3w" width="300px" alt="Imagem do projeto no LinkedIn"/>
+       <img src="https://media.licdn.com/dms/image/v2/D4D22AQHhaF43_nxIcA/feedshare-shrink_2048_1536/B4DZXug7mDG4Ao-/0/1743463365484?e=1752105600&v=beta&t=UVNnu_eT7aF7E-tO838IRhp_F-iPAs9h9yh_6aU-4JU" width="300px" alt="Imagem do projeto no LinkedIn"/>
+
+  
+</div>
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
